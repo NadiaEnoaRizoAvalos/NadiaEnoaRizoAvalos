@@ -1,4 +1,4 @@
-### ¡Hola! Soy Nadia 👋
+### ¡Hola! Soy Nadia 
 
 Estudiante avanzada (4to año) de **Ingeniería en Sistemas de Información** en la **UTN - Facultad Regional Tucumán**
 
