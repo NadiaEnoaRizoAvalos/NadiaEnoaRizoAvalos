@@ -1,3 +1,5 @@
+<img src="./%E2%98%86%20-%20star%20header.jpg" width="100%" alt="Banner de Nadia">
+
 ### ¡Hola! Soy Nadia 
 
 Estudiante avanzada (4to año) de **Ingeniería en Sistemas de Información** en la **UTN - Facultad Regional Tucumán**
