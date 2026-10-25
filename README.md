@@ -5,14 +5,6 @@ Estudiante avanzada (4to año) de **Ingeniería en Sistemas de Información** en
 Yerba Buena, Tucumán, Argentina
 Inglés — B1
 
----
-
-#### Proyectos destacados
-
-- **[TFI_Simulacion](https://github.com/NadiaEnoaRizoAvalos/TFI_Simulacion)** — Simulador de eventos discretos para gestión y recuperación de materiales de residuos electrónicos (motor en capas, distribuciones de probabilidad y teoría de colas). `TypeScript` `Next.js` `React Three Fiber` · Desplegado en Vercel
-- **Diseño e implementación de infraestructura de red (TFI)** — Red segmentada en dos áreas con topología en estrella, subnetting VLSM, enrutamiento estático entre routers Cisco, Active Directory, DHCP/DNS y servidor web IIS. Monitoreo con Wireshark y PRTG. `Packet Tracer` `Windows Server`
-- **[portafolio-3d](https://github.com/NadiaEnoaRizoAvalos/portafolio-3d)** — Práctica de interacción y diseño 3D. `Three.js` `React`
-
 
 ---
 
