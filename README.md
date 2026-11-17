@@ -3,7 +3,6 @@
 Estudiante avanzada (4to año) de **Ingeniería en Sistemas de Información** en la **UTN - Facultad Regional Tucumán**
 
 Yerba Buena, Tucumán, Argentina
-Inglés — B1
 
 
 ---
